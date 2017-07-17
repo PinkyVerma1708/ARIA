@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="387598" started-at="2017-04-24T10:16:47Z" finished-at="2017-04-24T10:23:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="387598" started-at="2017-04-24T10:16:47Z" finished-at="2017-04-24T10:23:15Z">
+      <class name="testClasses.Aria.Verifyplan_update">
+        <test-method status="PASS" signature="tearUp()[pri:0, instance:testClasses.Aria.Verifyplan_update@1ed4004b]" name="tearUp" is-config="true" duration-ms="22921" started-at="2017-04-24T15:46:47Z" finished-at="2017-04-24T15:47:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+        <test-method status="PASS" signature="Verify_Login_in_Salesforce()[pri:1, instance:testClasses.Aria.Verifyplan_update@1ed4004b]" name="Verify_Login_in_Salesforce" duration-ms="30493" started-at="2017-04-24T15:47:10Z" finished-at="2017-04-24T15:47:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Login_in_Salesforce -->
+        <test-method status="PASS" signature="Create_New_Account()[pri:2, instance:testClasses.Aria.Verifyplan_update@1ed4004b]" name="Create_New_Account" duration-ms="37969" started-at="2017-04-24T15:47:41Z" finished-at="2017-04-24T15:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_New_Account -->
+        <test-method status="PASS" signature="Create_New_Opportunity()[pri:3, instance:testClasses.Aria.Verifyplan_update@1ed4004b]" name="Create_New_Opportunity" duration-ms="16274" started-at="2017-04-24T15:48:19Z" finished-at="2017-04-24T15:48:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_New_Opportunity -->
+        <test-method status="PASS" signature="Add_Plan_Opportunity()[pri:4, instance:testClasses.Aria.Verifyplan_update@1ed4004b]" name="Add_Plan_Opportunity" duration-ms="21062" started-at="2017-04-24T15:48:35Z" finished-at="2017-04-24T15:48:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_Plan_Opportunity -->
+        <test-method status="PASS" signature="Add_BillingGroups()[pri:5, instance:testClasses.Aria.Verifyplan_update@1ed4004b]" name="Add_BillingGroups" duration-ms="10838" started-at="2017-04-24T15:48:56Z" finished-at="2017-04-24T15:49:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_BillingGroups -->
+        <test-method status="PASS" signature="Plan_selection()[pri:6, instance:testClasses.Aria.Verifyplan_update@1ed4004b]" name="Plan_selection" duration-ms="78791" started-at="2017-04-24T15:49:07Z" finished-at="2017-04-24T15:50:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Plan_selection -->
+        <test-method status="PASS" signature="Swap_plan()[pri:7, instance:testClasses.Aria.Verifyplan_update@1ed4004b]" name="Swap_plan" duration-ms="166855" started-at="2017-04-24T15:50:26Z" finished-at="2017-04-24T15:53:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Swap_plan -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testClasses.Aria.Verifyplan_update@1ed4004b]" name="tearDown" is-config="true" duration-ms="2323" started-at="2017-04-24T15:53:13Z" finished-at="2017-04-24T15:53:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testClasses.Aria.Verifyplan_update -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
